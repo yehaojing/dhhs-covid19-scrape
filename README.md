@@ -1,2 +1,2 @@
 # dhhs-covid19-scrape
-Scrape Victoria DHHS for daily COVID-19 cases by LGA
+A Jupyter Notebook to scrape Victoria DHHS media releases for daily COVID-19 cases by LGA
